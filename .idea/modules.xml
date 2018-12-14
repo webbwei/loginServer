@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/loginServer.iml" filepath="$PROJECT_DIR$/loginServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loginServer-api/loginServer-api.iml" filepath="$PROJECT_DIR$/loginServer-api/loginServer-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loginServer-mapper/loginServer-mapper.iml" filepath="$PROJECT_DIR$/loginServer-mapper/loginServer-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loginServer-service/loginServer-service.iml" filepath="$PROJECT_DIR$/loginServer-service/loginServer-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loginServer-web/loginServer-web.iml" filepath="$PROJECT_DIR$/loginServer-web/loginServer-web.iml" />
+    </modules>
+  </component>
+</project>
